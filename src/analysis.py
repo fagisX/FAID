@@ -218,9 +218,6 @@ def gtf_to_index_genename(df, bin=100):
 def random_location(df_path, chromosome_size="./ref_data/sacCer_chrom_size.xlsx", random_state=0, rDNA=False):
     df = pd.read_csv(df_path, sep='\t')
     chr_sizes = pd.read_excel(chromosome_size, index_col=0)
-    if rDNA:
-        original_12 = chr_sizes.ix[12, 'Length (bp)']
-        chr_sizes.ix[12, 'Length (bp)'] += 1400000
 
     results = []
     random.seed(random_state)
@@ -251,14 +248,7 @@ def random_location(df_path, chromosome_size="./ref_data/sacCer_chrom_size.xlsx"
                 continue
             chr_size = chr_sizes.ix[chr, 'Length (bp)'] - (end - start)
 
-            if chr == 12 and (450000 < start and 450000 < end and start < 450000+1400000 and end < 450000+1400000) and rDNA:
-                new_start = int(random.uniform(450000, 450000+1400000))
-            elif chr == 12 and (start < 450000 and end < 450000) and rDNA:
-                new_start = int(random.uniform(1, 450000))
-            elif chr == 12 and (start > 450000+1400000 and end > 450000+1400000) and rDNA:
-                new_start = int(random.uniform(450000+1400000, chr_size))
-            else:
-                new_start = int(random.uniform(1, chr_size))
+            new_start = int(random.uniform(1, chr_size))
             new_end = new_start + (end - start)
             if rDNA and rDNA_label == 'rDNA':
                 results.append([chr, new_start, new_end, 0, '', 'rDNA'])
@@ -446,9 +436,6 @@ if __name__ == "__main__":
             for i in range(df_total.shape[0]):
                 chr, start, end, rDNA = df_total.ix[i, 0], df_total.ix[i, 1], df_total.ix[i, 2], df_total.ix[i, 5]
                 # print rDNA
-                if chr == 12 and rDNA != 'rDNA' and start > 450000:
-                    df_total.ix[i, 1] += 1400000
-                    df_total.ix[i, 2] += 1400000
             df_total.to_csv('insertion_total_rDNA_1.xls', sep='\t', index=False)
 
 
@@ -473,9 +460,6 @@ if __name__ == "__main__":
             for i in range(df.shape[0]):
                 if df.ix[i, 'chr'] != 12:
                     continue
-                if df.ix[i, 'start'] > 450000:
-                    df.ix[i, 'start'] += 1400000
-                    df.ix[i, 'end'] += 1400000
             df.to_csv('./ref_data/' + feature[:-4]+'_rDNA.xls', sep='\t', index=False)
 
     # For TEL
@@ -799,7 +783,6 @@ if __name__ == "__main__":
 
         count_df = df_total['chromosome'].value_counts().to_frame()
         size_df = pd.read_excel('./ref_data/sacCer_chrom_size.xlsx', index_col=0)
-        size_df.ix[12, 'Length (bp)'] += 1400000
         count_df['length'] = [np.nan] * count_df.shape[0]
         for i in size_df.index:
             if i in count_df.index:

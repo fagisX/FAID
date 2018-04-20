@@ -2,7 +2,324 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d183cec4-cf46-4116-a49b-50ee6afd48f5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/Dextrose/pooled/Dextrose.Fnor.positions.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/Galactose/pooled/Galactose.Fnor.positions.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/bowtie.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control0.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control1900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control2900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control3900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control4900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control5900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control6900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control7900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control8900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_insertion_total_control9900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_nucleosome_occupacy.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Dextrose_nucleosome_occupacy_detail.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_control0.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control0.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control1900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control2900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control3900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control4900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control5900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control6900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control7900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control8900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_insertion_total_control9900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_nucleosome_occupacy.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/Galactose_nucleosome_occupacy_detail.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/barplot.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control0.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control1900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control2900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control3900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control4900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control5900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control6900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control7900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control8900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9000.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9100.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9200.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9300.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9400.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9500.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9600.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9700.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9800.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/insertion_total_control9900.bed" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/nucleosome_occupacy.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nucleosome/overlap/test.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/analysis.py" afterPath="$PROJECT_DIR$/src/analysis.py" />
     </list>
     <ignored path="Yeast_Greg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +338,7 @@
     <favorites_list name="Yeast_Greg" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,13 +407,14 @@
         <option value="$PROJECT_DIR$/distance_result/TEL_boxplot_distance.txt" />
         <option value="$PROJECT_DIR$/distance_result/CEN_boxplot_distance.txt" />
         <option value="$PROJECT_DIR$/analysis.py" />
+        <option value="$PROJECT_DIR$/src/analysis.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -123,7 +441,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -144,6 +461,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -458,14 +776,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="817" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28898427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282967" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -507,7 +825,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/expression_data/MGG_2007_GSM113466.txt" />
     <entry file="file://$PROJECT_DIR$/expression_data/PNAS_GSM671865_ref1.txt" />
     <entry file="file://$PROJECT_DIR$/expression_data/MGG_2007_GSM113599.txt" />
     <entry file="file://$PROJECT_DIR$/expression_data/MGG_2007_GSM113601.txt" />
@@ -612,5 +929,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ref_data/tRNA_feature.gtf" />
     <entry file="file://$PROJECT_DIR$/analysis.py" />
+    <entry file="file://$PROJECT_DIR$/src/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11850">
+          <caret line="784" column="81" selection-start-line="784" selection-start-column="81" selection-end-line="784" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
